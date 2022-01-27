@@ -1,0 +1,11 @@
+.form div{
+    margin-top: 15px;
+}
+.form input[type=submit]{
+    background-color: brown;
+    color: #fff;
+    width: 100%;
+    border: 0;
+    padding: 7px;
+    border-radius: 4px;
+}

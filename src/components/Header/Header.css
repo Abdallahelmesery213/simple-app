@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    background-color: brown;
+    color: #fff;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px 15px;
+    min-height: 57px;
+}
+.header p, .header h2{
+    display: flex;
+    align-items: center;
+}
+.header p {
+    font-size: 17px;
+}

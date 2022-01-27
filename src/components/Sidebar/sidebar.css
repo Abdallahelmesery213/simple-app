@@ -1,0 +1,21 @@
+.sidebar{
+    background-color: #ccc;
+    width: 100%;
+    height: calc(100vh - 57px);
+}
+.sidebar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.sidebar ul li {
+    cursor: pointer;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #222121;
+    font-weight: 600;
+}
+.sidebar ul li span{
+    color: brown;
+}
